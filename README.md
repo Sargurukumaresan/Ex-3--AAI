@@ -1,9 +1,8 @@
-<H3>ENTER YOUR NAME: SARGURU K</H3>
-<H3>ENTER YOUR REGISTER NO: 212222230134</H3>
-<H3>EX. NO.3</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
-</H1>
+<H3> NAME: SARGURU K </H3>
+<H3> REGISTER NUMBER: 212222230134 </H3>
+<H3>EXPERIMENT NO: 03 </H3>
+<H3>DATE:  </H3>
+<H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.</br>
